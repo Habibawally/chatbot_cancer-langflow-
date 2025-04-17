@@ -55,3 +55,25 @@ By combining **RAG**, **Langflow**, and **Ollama**, this chatbot represents a ne
 ### **Get Involved:**
 
 You can view the full project on [GitHub](https://github.com/Habibawally/chatbot_cancer-langflow-), where the code and detailed implementation steps are available. Feel free to contribute, explore the architecture, or simply check out how we integrated **RAG** with **Langflow** and **Ollama** to create this powerful cancer insights chatbot.
+
+## Installation Instructions
+
+To get started with the project, follow these steps:
+
+### Prerequisites:
+- Python 3.x
+- Required libraries: Langflow, Ollama, and other dependencies
+## How It Works
+
+Here's a flowchart illustrating how the chatbot works:
+
+![Chatbot Workflow]("C:/Users/ayawa/OneDrive/Pictures/photoshop/Screenshots/Screenshot 2025-04-18 004055.png")
+
+### 1. User Input:
+   - The user asks a question about cancer-related topics.
+
+### 2. Retrieval:
+   - Relevant data is retrieved from a vector store using text embeddings.
+
+### 3. Generation:
+   - The retrieved data is passed to the LLM for generating a response.
