@@ -67,7 +67,8 @@ To get started with the project, follow these steps:
 
 Here's a flowchart illustrating how the chatbot works:
 
-![Work Flow](./Screenshot%202025-04-18%20004055.png)
+![Screenshot 2025-04-18 004055](https://github.com/user-attachments/assets/e441407b-038b-4a2f-b3bc-ffd036f0c61b)
+
 
 ### 1. User Input:
    - The user asks a question about cancer-related topics.
